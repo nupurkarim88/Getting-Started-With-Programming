@@ -1,0 +1,5 @@
+print("Welcome to the world of Python")
+print(4)
+print("Hello python \n")
+print("Hello", 5)
+print("welcome to ", end= "Welcome Everybody ")
